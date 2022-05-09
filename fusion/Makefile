@@ -1,5 +1,5 @@
 # Generated automatically from Makefile.in by configure.
-SHELL = /bin/sh
+SHELL = /bin/bash
 
 exec_prefix = .
 bindir = $(exec_prefix)/bin
